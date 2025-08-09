@@ -70,10 +70,9 @@ We welcome contributions to improve **Anon**! Feel free to fork the repository, 
 
 For questions, feedback, or collaborations, you can reach me at:  
 
-- **Email**: [sathishnaikislavath@gmail.com](mailto:sathishnaikislavath@gmail.com)  
-- **Twitter**: [@Sathishnaik](https://twitter.com/Sathishnaik)  
-- **GitHub**: [Sathishnaik786](https://github.com/Sathishnaik786)
-- **Linkedin**: [Sathishnaik786](https://www.linkedin.com/in/isathishnaik/)
+- **Email**: [ahmadalidudekula35@gmail.com](mailto:ahmadalidudekula35@gmail.com)   
+- **GitHub**: [Ahmad](https://github.com/Ahmad35-dev)
+- **Linkedin**: [Ahmad Ali](https://www.linkedin.com/in/ahmadali-dudekula-25815b282/)
 
 
 ---
